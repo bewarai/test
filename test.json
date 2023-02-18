@@ -1,1 +1,30 @@
-Hello iedereen, testen maar
+
+    {
+        "bt-lg": {
+          "value": {
+            "height": "44px",
+            "horizontalPadding": "12px",
+            "borderRadius": "6px"
+          },
+          "type": "composition"
+        },
+        "label-lg": {
+          "value": {
+            "fontFamilies": "Roboto",
+            "fontSizes": "16px",
+            "fontWeights": "Bold",
+            "letterSpacing": "0px",
+            "lineHeights": "115%"
+          },
+          "type": "composition"
+        },
+        "contained-default": {
+          "value": "#FAA317",
+          "type": "color"
+        },
+        "contained-text": {
+          "value": "#161038",
+          "type": "color"
+        }
+    }
+  
